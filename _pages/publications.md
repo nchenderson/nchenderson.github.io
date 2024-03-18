@@ -5,18 +5,24 @@ permalink: /publications/
 author_profile: true
 ---
 
-Prostate Cancer
-======
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find a list of my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
 
-List several papers here
+
 
 Computational Statistics
 ======
 
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+[Henderson, N.C. and R. Varadhan (2019).  Damped Anderson Acceleration with Restarts and Monotonicity Control for Accelerating EM and EM-like Algorithms. Journal of Computational and Graphical Statistics, 28(4), 834-846.](https://www.tandfonline.com/doi/abs/10.1080/10618600.2019.1594835)
+
+
+Prostate Cancer
+======
+
+List several papers here
+
 
 {% include base_path %}
 
