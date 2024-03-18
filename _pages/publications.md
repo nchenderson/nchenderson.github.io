@@ -14,9 +14,9 @@ author_profile: true
 Computational Statistics
 ======
 
+1. Henderson, N.C. and R. Varadhan (2019). [Damped Anderson Acceleration with Restarts and Monotonicity Control for Accelerating EM and EM-like Algorithms.](https://www.tandfonline.com/doi/abs/10.1080/10618600.2019.1594835) Journal of Computational and Graphical Statistics, 28(4), 834-846.
 
-[Henderson, N.C. and R. Varadhan (2019).  Damped Anderson Acceleration with Restarts and Monotonicity Control for Accelerating EM and EM-like Algorithms. Journal of Computational and Graphical Statistics, 28(4), 834-846.](https://www.tandfonline.com/doi/abs/10.1080/10618600.2019.1594835)
-
+2. Henderson, N.C. and P.J. Rathouz (2018). [AR(1) Latent Class Models for Longitudinal Count Data.](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.7931) Statistics in Medicine, 37, 4441-4456.
 
 Prostate Cancer
 ======
