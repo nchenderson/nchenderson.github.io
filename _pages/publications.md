@@ -10,14 +10,17 @@ author_profile: true
   <div class="wordwrap">You can also find a list of articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+You can also find a complete list of my articles on my [google scholar](https://scholar.google.com/citations?user=QTRX6BgAAAAJ&hl=en&oi=sra) profile.
+
+
 Heterogeneity of Treatment Effect
 ======
 
-1. Segal, J.B., Varadhan, R., Groenwold, R.H.H., Henderson, N.C.,..., and M. Burcu (2023). [Assessing Heterogeneity of Treatment Effect in Real-World Data.]() Annals of Internal Medicine, 176(4), 536-544.
+1. Segal, J.B., Varadhan, R., Groenwold, R.H.H., Henderson, N.C.,..., and M. Burcu (2023). [Assessing Heterogeneity of Treatment Effect in Real-World Data.](https://www.acpjournals.org/doi/abs/10.7326/M22-1510) Annals of Internal Medicine, 176(4), 536-544.
 
 2. Henderson, N.C., Louis, T.A., Rosner, G.L., and R. Varadhan (2020). [Individualized Treatment Effects with Censored Data via Fully Nonparametric Bayesian Accelerated Failure Time Models.](https://academic.oup.com/biostatistics/article/21/1/50/5056258) Biostatistics, 21, 50-68.
 
-3. Lesko, C.R., Henderson, N.C., and R. Varadhan (2018). [Considerations when Assessing Heterogeneity of Treatment Effect in Patient-Centered Outcomes Research.]() Journal of Clinical Epidemiology, 100, 22-31. 
+3. Lesko, C.R., Henderson, N.C., and R. Varadhan (2018). [Considerations when Assessing Heterogeneity of Treatment Effect in Patient-Centered Outcomes Research.](https://www.sciencedirect.com/science/article/abs/pii/S0895435617301099) Journal of Clinical Epidemiology, 100, 22-31. 
 
 4. Henderson, N.C. and R. Varadhan (2018). [Bayesian Bivariate Subgroup Analysis for Risk-Benefit Evaluation.](https://link.springer.com/article/10.1007/s10742-018-0188-1) Health Services and Outcomes Research Methodology, 18(4), 244-264.
 
@@ -84,15 +87,15 @@ Survival Prediction
 Prostate Cancer
 ======
 
-1. Zengin, Z.B., Henderson, N.C., Park, J.J., ..., and T. Dorff (2024). [Clinical implications of AR alterations in advanced prostate cancer: a multi-institutional collaboration.]() Prostate Cancer and Prostatic Diseases.
+1. Zengin, Z.B., Henderson, N.C., Park, J.J., ..., and T. Dorff (2024). [Clinical implications of AR alterations in advanced prostate cancer: a multi-institutional collaboration.](https://www.nature.com/articles/s41391-024-00805-3) Prostate Cancer and Prostatic Diseases.
 
-2. Hwang, C., Henderson, N.C., Cackowski, F.C., ..., and P. Barata (2023). [Biomarker-directed Therapy in Black and White Men with Metastatic Castration-resistant Prostate Cancer (mCRPC).]() JAMA Network Open, 6(9), e2334208.
+2. Hwang, C., Henderson, N.C., Cackowski, F.C., ..., and P. Barata (2023). [Biomarker-directed Therapy in Black and White Men with Metastatic Castration-resistant Prostate Cancer (mCRPC).](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2809637) JAMA Network Open, 6(9), e2334208.
 
 
 Urothelial Cancer
 ======
 
-1. Koshkin, V.S., Henderson, N.C., James, M., ...., and A. Alva (2022). [Efficacy of enfortumab vedotin in advanced urothelial cancer: analysis from the Urothelial Cancer Network to Investigate Therapeutic Experiences (UNITE) registry.]()
+1. Koshkin, V.S., Henderson, N.C., James, M., ...., and A. Alva (2022). [Efficacy of enfortumab vedotin in advanced urothelial cancer: analysis from the Urothelial Cancer Network to Investigate Therapeutic Experiences (UNITE) registry.](https://acsjournals.onlinelibrary.wiley.com/doi/full/10.1002/cncr.34057)
 Cancer, 128(6), 1194-1205.
 
 
