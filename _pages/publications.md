@@ -102,6 +102,8 @@ Survival Prediction
 1. Rutherford, D.V., Medley, S., Henderson, N.C., 
 Gersch, C.L.,..., and D.L. Hertz (2023). [Effects of CYP3A4 and CYP2C9 genotype on systemic anastrozole and fulvestrant concentrations in SWOG S0226.](https://www.futuremedicine.com/doi/abs/10.2217/pgs-2023-0097) *Pharmacogenomics*, **24**(12), 665-673.
 
+# Other Work
+
 
 <!--{% include base_path %}
 
