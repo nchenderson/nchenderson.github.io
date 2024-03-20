@@ -6,11 +6,8 @@ author_profile: true
 ---
 
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find a list of articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
 You can also find a complete list of my articles on my [google scholar](https://scholar.google.com/citations?user=QTRX6BgAAAAJ&hl=en&oi=sra) profile.
+
 
 
 Heterogeneity of Treatment Effect
@@ -99,8 +96,8 @@ Urothelial Cancer
 Cancer, 128(6), 1194-1205.
 
 
-{% include base_path %}
+<!--{% include base_path %}
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %}-->
