@@ -6,4 +6,4 @@ author_profile: true
 ---
 
 
-You can also find a complete list of my articles on my [google scholar](https://scholar.google.com/citations?user=QTRX6BgAAAAJ&hl=en&oi=sra) profile.
+1. Notes for a Health Data Science case studies course: [HDS629](https://nchenderson.github.io/HDS629notes/). 
