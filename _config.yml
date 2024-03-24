@@ -26,7 +26,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "University of Michigan, Department of Biostatistics"
+  employer         : > 
+                     "University of Michigan, 
+                     Department of Biostatistics"
   uri              : # URL
   email            : "nchender@umich.edu" 
 
@@ -202,9 +204,6 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
