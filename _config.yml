@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Nicholas C. Henderson"
 title_separator          : "-"
 name                     : &name "Nicholas C. Henderson"
-description              : &description "personal description"
+description              : &description "Biostatistician"
 url                      : https://nchenderson.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Nicholas C. Henderson"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Ann Arbor, MI"
   employer         : "University of Michigan, Department of Biostatistics"
   uri              : # URL
   email            : "nchender@umich.edu" 
