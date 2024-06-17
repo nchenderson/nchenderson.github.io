@@ -89,6 +89,8 @@ Computational Statistics
 
 2. Hwang, C., Henderson, N.C., Cackowski, F.C., ..., and P. Barata (2023). [Biomarker-directed Therapy in Black and White Men with Metastatic Castration-resistant Prostate Cancer (mCRPC).](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2809637) *JAMA Network Open*, **6**(9), e2334208.
 
+3. Graham, L., Henderson, N.C., Kellezi, O., ..., and M.T. Schweizer (2024). **DNA Damaging Therapies in Patients with Prostate Cancer and Pathogenic Alterations in Homologous Recombination Repair Genes**. *JCO Precision Oncology*
+
 
 ## Urothelial Cancer
 
