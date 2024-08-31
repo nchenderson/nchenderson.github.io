@@ -24,8 +24,7 @@ Heterogeneity of Treatment Effect
 
 5. Wang, C., Louis, T.A., Henderson, N.C., Weiss, C.O., and R. Varadhan (2018). [BEANZ: A Web-based Software for Bayesian Analysis of Heterogeneous Treatment Effect in Patient-Centered Outcomes Research.](https://www.jstatsoft.org/article/view/v085i07) *Journal of Statistical Software*, **85**(7), 1-31.
 
-6. Henderson, N.C., Louis, T.A., Wang, C., and R. Varadhan (2016). [Bayesian Analysis of Heterogeneous Treatment Effects for Patient-Centered Outcomes Research.](https://link.springer.com/article/10.1007/s10742-016-0159-3) *Health Services and Outcomes Research Methodology*,
-**16**(4), 213-233.
+6. Henderson, N.C., Louis, T.A., Wang, C., and R. Varadhan (2016). [Bayesian Analysis of Heterogeneous Treatment Effects for Patient-Centered Outcomes Research.](https://link.springer.com/article/10.1007/s10742-016-0159-3) *Health Services and Outcomes Research Methodology*, **16**(4), 213-233.
 
 Survival Analysis and Bayesian Additive Regression Trees (BART)
 ======
@@ -62,7 +61,7 @@ Data Integration/Real-World Evidence
 5. Varadhan, R., Henderson, N.C., and C. O. Weiss (2016). [Cross-Design Synthesis for Extending the Applicability of Trial Evidence when Treatment Effect is Heterogeneous: Part I. Methodology.](https://www.tandfonline.com/doi/abs/10.1080/23737484.2017.1392265)
 *Communications in Statistics: Case Studies, Data Analysis and Applications*, **2**, 112-126.
 
-6. Bhattacharyya, R., Henderson, N.C., and V. Baladandayuthapani. [Functional Integrative Bayesian Analysis of High-dimensional Multiplatform Genomic Data.](https://arxiv.org/abs/2212.14165) ArXiv preprint.
+6. Bhattacharyya, R., Henderson, N.C., and V. Baladandayuthapani. [Functional Integrative Bayesian Analysis of High-dimensional Multiplatform Genomic Data.](https://www.tandfonline.com/doi/abs/10.1080/01621459.2024.2388909)*To appear in the Journal of the American Statistical Association*, [ArXiv preprint here](https://arxiv.org/abs/2212.14165).
 
 
 
@@ -89,7 +88,7 @@ Computational Statistics
 
 2. Hwang, C., Henderson, N.C., Cackowski, F.C., ..., and P. Barata (2023). [Biomarker-directed Therapy in Black and White Men with Metastatic Castration-resistant Prostate Cancer (mCRPC).](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2809637) *JAMA Network Open*, **6**(9), e2334208.
 
-3. Graham, L., Henderson, N.C., Kellezi, O., ..., and M.T. Schweizer (2024). **DNA Damaging Therapies in Patients with Prostate Cancer and Pathogenic Alterations in Homologous Recombination Repair Genes**. *JCO Precision Oncology*
+3. Graham, L., Henderson, N.C., Kellezi, O., ..., and M.T. Schweizer (2024). [DNA Damaging Therapies in Patients with Prostate Cancer and Pathogenic Alterations in Homologous Recombination Repair Genes.](https://ascopubs.org/doi/full/10.1200/PO.24.00014) *JCO Precision Oncology*, **8**, e2400014.
 
 
 ## Urothelial Cancer
