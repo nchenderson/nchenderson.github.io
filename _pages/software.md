@@ -16,6 +16,8 @@ author_profile: true
 
 4. [DelayedSurvFit](https://github.com/nchenderson/DelayedSurvFit) An R package for conducting survival comparisons of two treatments when one suspects a delayed treatment effect.
 
+5. [shrinkcbp](https://github.com/nchenderson/shrinkcbp) An R package that computes the "compromise best predictor" (CBP). The CBP can be thought of as a collection of robust shrinkage estimates of small domain parameters and is an alternative to more traditional mixed model-based BLUPs. 
+
 <!--{% include base_path %}
 
 {% for post in site.software reversed %}
