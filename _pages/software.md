@@ -18,6 +18,8 @@ author_profile: true
 
 5. [shrinkcbp](https://github.com/nchenderson/shrinkcbp) An R package that computes the "compromise best predictor" (CBP). The CBP can be thought of as a collection of robust shrinkage estimates of small domain parameters and is an alternative to more traditional mixed model-based BLUPs. 
 
+5. [pxlogistic](https://github.com/nchenderson/pxlogistic) An R package that implements an accelerated EM algorithm for logistic regression and penalized logistic regression with user-provided regression weights.
+
 <!--{% include base_path %}
 
 {% for post in site.software reversed %}
