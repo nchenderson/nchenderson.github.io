@@ -18,7 +18,9 @@ author_profile: true
 
 5. [shrinkcbp](https://github.com/nchenderson/shrinkcbp) An R package that computes the "compromise best predictor" (CBP). The CBP can be thought of as a collection of robust shrinkage estimates of small domain parameters and is an alternative to more traditional mixed model-based BLUPs. 
 
-5. [pxlogistic](https://github.com/nchenderson/pxlogistic) An R package that implements an accelerated EM algorithm for logistic regression and penalized logistic regression with user-provided regression weights.
+6. [pxlogistic](https://github.com/nchenderson/pxlogistic) An R package that implements an accelerated EM algorithm for logistic regression and penalized logistic regression with user-provided regression weights.
+
+7. [rmstbart](https://github.com/nchenderson/rmstbart) An R package implementing a generalized Bayes approach for adapting BART to perform inference on a function which relates the restricted mean survival times with a collection of individual-level covariates.
 
 <!--{% include base_path %}
 

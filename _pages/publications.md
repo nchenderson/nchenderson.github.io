@@ -20,11 +20,14 @@ Heterogeneity of Treatment Effect
 2. Henderson, N.C., Louis, T.A., Rosner, G.L., and R. Varadhan (2020). [Individualized Treatment Effects with Censored Data via Fully Nonparametric Bayesian Accelerated Failure Time Models.](https://academic.oup.com/biostatistics/article/21/1/50/5056258) *Biostatistics*, **21**, 50-68.
 
 3. Lesko, C.R., Henderson, N.C., and R. Varadhan (2018). [Considerations when Assessing Heterogeneity of Treatment Effect in Patient-Centered Outcomes Research.](https://www.sciencedirect.com/science/article/abs/pii/S0895435617301099) *Journal of Clinical Epidemiology*, **100**, 22-31. 
+
 4. Henderson, N.C. and R. Varadhan (2018). [Bayesian Bivariate Subgroup Analysis for Risk-Benefit Evaluation.](https://link.springer.com/article/10.1007/s10742-018-0188-1) *Health Services and Outcomes Research Methodology*, **18**(4), 244-264.
 
 5. Wang, C., Louis, T.A., Henderson, N.C., Weiss, C.O., and R. Varadhan (2018). [BEANZ: A Web-based Software for Bayesian Analysis of Heterogeneous Treatment Effect in Patient-Centered Outcomes Research.](https://www.jstatsoft.org/article/view/v085i07) *Journal of Statistical Software*, **85**(7), 1-31.
 
 6. Henderson, N.C., Louis, T.A., Wang, C., and R. Varadhan (2016). [Bayesian Analysis of Heterogeneous Treatment Effects for Patient-Centered Outcomes Research.](https://link.springer.com/article/10.1007/s10742-016-0159-3) *Health Services and Outcomes Research Methodology*, **16**(4), 213-233.
+
+7. Ashouri, M., and N.C. Henderson. **Evaluating and Testing for Actionable Treatment Effect Heterogeneity**
 
 Survival Analysis and Bayesian Additive Regression Trees (BART)
 ======
@@ -68,15 +71,16 @@ Data Integration/Real-World Evidence
 Computational Statistics
 ======
 
-1. Tang, B., Henderson, N.C., and R. Varadhan (2023). [Accelerating Fixed-Point Algorithms in Statistics and Data Science: A State-of-Art Review.](https://jds-online.org/journal/JDS/article/1288/info) *Journal of Data Science*, **21**(1), 1-26.
+1. Henderson, N.C. and Z. Ouyang. [Parameter-expanded ECME algorithms for Logistic and Penalized Logistic Regression.](https://arxiv.org/abs/2304.03904) To appear in Computational Statistics.
 
-2. Henderson, N.C. and R. Varadhan (2019). [Damped Anderson Acceleration with Restarts and Monotonicity Control for Accelerating EM and EM-like Algorithms.](https://www.tandfonline.com/doi/abs/10.1080/10618600.2019.1594835) *Journal of Computational and Graphical Statistics*, **28**(4), 834-846.
+2. Tang, B., Henderson, N.C., and R. Varadhan (2023). [Accelerating Fixed-Point Algorithms in Statistics and Data Science: A State-of-Art Review.](https://jds-online.org/journal/JDS/article/1288/info) *Journal of Data Science*, **21**(1), 1-26.
 
-3. Henderson, N.C. and P.J. Rathouz (2018). [AR(1) Latent Class Models for Longitudinal Count Data.](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.7931) *Statistics in Medicine*, **37**, 4441-4456.
+3. Henderson, N.C. and R. Varadhan (2019). [Damped Anderson Acceleration with Restarts and Monotonicity Control for Accelerating EM and EM-like Algorithms.](https://www.tandfonline.com/doi/abs/10.1080/10618600.2019.1594835) *Journal of Computational and Graphical Statistics*, **28**(4), 834-846.
 
-4. McDaniel, L.S., Henderson, N.C., and P.J. Rathouz (2013). [Fast Pure R Implementation of GEE: Application of the Matrix Package.](https://journal.r-project.org/archive/2013-1/mcdaniel-henderson-rathouz.pdf) *The R Journal*, **5**(1), 181-188.
+4. Henderson, N.C. and P.J. Rathouz (2018). [AR(1) Latent Class Models for Longitudinal Count Data.](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.7931) *Statistics in Medicine*, **37**, 4441-4456.
 
-5. Henderson, N.C. and Z. Ouyang. [Parameter-expanded ECME algorithms for Logistic and Penalized Logistic Regression.](https://arxiv.org/abs/2304.03904) ArXiv preprint.
+5. McDaniel, L.S., Henderson, N.C., and P.J. Rathouz (2013). [Fast Pure R Implementation of GEE: Application of the Matrix Package.](https://journal.r-project.org/archive/2013-1/mcdaniel-henderson-rathouz.pdf) *The R Journal*, **5**(1), 181-188.
+
 
 
 
