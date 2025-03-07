@@ -27,7 +27,7 @@ Heterogeneity of Treatment Effect
 
 6. Henderson, N.C., Louis, T.A., Wang, C., and R. Varadhan (2016). [Bayesian Analysis of Heterogeneous Treatment Effects for Patient-Centered Outcomes Research.](https://link.springer.com/article/10.1007/s10742-016-0159-3) *Health Services and Outcomes Research Methodology*, **16**(4), 213-233.
 
-7. Ashouri, M., and N.C. Henderson. **Evaluating and Testing for Actionable Treatment Effect Heterogeneity**
+7. Ashouri, M., and N.C. Henderson (2025). [Evaluating and Testing for Actionable Treatment Effect Heterogeneity](https://arxiv.org/abs/2503.04093) ArXiv preprint.
 
 Survival Analysis and Bayesian Additive Regression Trees (BART)
 ======
@@ -52,19 +52,20 @@ Empirical Bayes/Shrinkage Estimation
 Data Integration/Real-World Evidence
 ======
 
-1. Bhattacharyya, R. Henderson, N., and V. Baladandayuthapani (2023). [BaySyn: Bayesian Evidence Synthesis for Multi-system Multiomic Integration.](https://www.worldscientific.com/doi/abs/10.1142/9789811270611_0026) In *PACIFIC SYMPOSIUM ON BIOCOMPUTING 2023: Proceedings of the Pacific Symposium*, 275 - 286.
+1. Bhattacharyya, R., Henderson, N.C., and V. Baladandayuthapani (2024). [Functional Integrative Bayesian Analysis of High-dimensional Multiplatform Genomic Data.](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2388909)*Journal of the American Statistical Association*, **119**(548), 2533-2547..
 
-2. Nam, K., Henderson, N.C., Rohan, P., and E. Russek-Cohen (2021). [Penalized Logistic Regression Likelihood Ratio Test Analysis to Detect Signals of Adverse Events from Interactions in Postmarket Safety Surveillance.](https://www.tandfonline.com/doi/abs/10.1080/19466315.2020.1752299) *Statistics in Biopharmaceutical Research*, **13**(4), 405-414.
+2. Bhattacharyya, R. Henderson, N., and V. Baladandayuthapani (2023). [BaySyn: Bayesian Evidence Synthesis for Multi-system Multiomic Integration.](https://www.worldscientific.com/doi/abs/10.1142/9789811270611_0026) In *PACIFIC SYMPOSIUM ON BIOCOMPUTING 2023: Proceedings of the Pacific Symposium*, 275 - 286.
 
-3. Henderson, N.C., Varadhan, R., and C. O. Weiss (2017). [Cross-Design Synthesis for Extending the Applicability of Trial Evidence when Treatment Effect is Heterogeneous: Part II. Application and External Validation.](https://www.tandfonline.com/doi/abs/10.1080/23737484.2017.1398056)
+3. Nam, K., Henderson, N.C., Rohan, P., and E. Russek-Cohen (2021). [Penalized Logistic Regression Likelihood Ratio Test Analysis to Detect Signals of Adverse Events from Interactions in Postmarket Safety Surveillance.](https://www.tandfonline.com/doi/abs/10.1080/19466315.2020.1752299) *Statistics in Biopharmaceutical Research*, **13**(4), 405-414.
+
+4. Henderson, N.C., Varadhan, R., and C. O. Weiss (2017). [Cross-Design Synthesis for Extending the Applicability of Trial Evidence when Treatment Effect is Heterogeneous: Part II. Application and External Validation.](https://www.tandfonline.com/doi/abs/10.1080/23737484.2017.1398056)
 *Communications in Statistics: Case Studies, Data Analysis and Applications*, **3**, 7-20.
 
-4. Nam, K., Henderson, N.C., Rohan, P., E.J. Woo, and E. Russek-Cohen (2017). [Logistic Regression Likelihood Ratio Test Analysis for Detecting Signals of Vaccine Adverse Events in Vaccine Safety Surveillance.](https://www.tandfonline.com/doi/abs/10.1080/10543406.2017.1295250) *Journal of Biopharmaceutical Statistics*, **27**, 990-1008.
+5. Nam, K., Henderson, N.C., Rohan, P., E.J. Woo, and E. Russek-Cohen (2017). [Logistic Regression Likelihood Ratio Test Analysis for Detecting Signals of Vaccine Adverse Events in Vaccine Safety Surveillance.](https://www.tandfonline.com/doi/abs/10.1080/10543406.2017.1295250) *Journal of Biopharmaceutical Statistics*, **27**, 990-1008.
 
-5. Varadhan, R., Henderson, N.C., and C. O. Weiss (2016). [Cross-Design Synthesis for Extending the Applicability of Trial Evidence when Treatment Effect is Heterogeneous: Part I. Methodology.](https://www.tandfonline.com/doi/abs/10.1080/23737484.2017.1392265)
+6. Varadhan, R., Henderson, N.C., and C. O. Weiss (2016). [Cross-Design Synthesis for Extending the Applicability of Trial Evidence when Treatment Effect is Heterogeneous: Part I. Methodology.](https://www.tandfonline.com/doi/abs/10.1080/23737484.2017.1392265)
 *Communications in Statistics: Case Studies, Data Analysis and Applications*, **2**, 112-126.
 
-6. Bhattacharyya, R., Henderson, N.C., and V. Baladandayuthapani. [Functional Integrative Bayesian Analysis of High-dimensional Multiplatform Genomic Data.](https://www.tandfonline.com/doi/abs/10.1080/01621459.2024.2388909)*To appear in the Journal of the American Statistical Association*, [ArXiv preprint here](https://arxiv.org/abs/2212.14165).
 
 
 
