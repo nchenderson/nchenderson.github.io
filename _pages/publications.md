@@ -29,6 +29,9 @@ Heterogeneity of Treatment Effect
 
 7. Ashouri, M., and N.C. Henderson (2025). [Evaluating and Testing for Actionable Treatment Effect Heterogeneity](https://arxiv.org/abs/2503.04093) ArXiv preprint.
 
+8. Kabata, D., Henderson, N.C., and R. Varadhan (2025). [Quantifying uncertainty of individualized treatment effects in right-censored survival data: A comparison of Bayesian additive regression trees and causal survival forest](https://arxiv.org/abs/2504.04571) ArXiv preprint.
+
+
 Survival Analysis and Bayesian Additive Regression Trees (BART)
 ======
 
@@ -72,7 +75,7 @@ Data Integration/Real-World Evidence
 Computational Statistics
 ======
 
-1. Henderson, N.C. and Z. Ouyang. [Parameter-expanded ECME algorithms for Logistic and Penalized Logistic Regression.](https://arxiv.org/abs/2304.03904) To appear in Computational Statistics.
+1. Henderson, N.C. and Z. Ouyang. [Parameter-expanded ECME algorithms for Logistic and Penalized Logistic Regression.](https://link.springer.com/article/10.1007/s00180-025-01619-0) To appear in Computational Statistics. ArXiv preprint [here](https://arxiv.org/abs/2304.03904) and R package associated with this paper: [pxlogistic](https://github.com/nchenderson/pxlogistic)
 
 2. Tang, B., Henderson, N.C., and R. Varadhan (2023). [Accelerating Fixed-Point Algorithms in Statistics and Data Science: A State-of-Art Review.](https://jds-online.org/journal/JDS/article/1288/info) *Journal of Data Science*, **21**(1), 1-26.
 
