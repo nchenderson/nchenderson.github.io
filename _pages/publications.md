@@ -42,7 +42,7 @@ Survival Analysis and Bayesian Additive Regression Trees (BART)
 3. Ashouri, M. and N.C. Henderson. [Generalized Bayesian Additive Regression Trees for Restricted Mean Survival Time Inference.](https://arxiv.org/abs/2402.17920) ArXiv preprint
 
 
-Empirical Bayes/Shrinkage Estimation
+Empirical Bayes/Shrinkage Estimation and Ranking
 ======
 
 1. Henderson, N.C., Varadhan, R., and T. A. Louis (2023). [Improved Small Domain Estimation via Compromise Regression Weights.](https://www.tandfonline.com/doi/abs/10.1080/01621459.2022.2080682) *Journal of the American Statistical Association*, **18**(544), 2793-2809.
@@ -75,17 +75,17 @@ Data Integration/Real-World Evidence
 Computational Statistics
 ======
 
-1. Henderson, N.C. and Z. Ouyang. [Parameter-expanded ECME algorithms for Logistic and Penalized Logistic Regression.](https://link.springer.com/article/10.1007/s00180-025-01619-0) To appear in Computational Statistics. ArXiv preprint [here](https://arxiv.org/abs/2304.03904) and R package associated with this paper: [pxlogistic](https://github.com/nchenderson/pxlogistic)
+1. Henderson, N.C., and R. Varadhan (2025). [Accelerating Proximal Gradient-type Algorithms using Damped Anderson Acceleration with Restarts and Nesterov Initialization](https://arxiv.org/abs/2508.12177) ArXiv preprint.
 
-2. Tang, B., Henderson, N.C., and R. Varadhan (2023). [Accelerating Fixed-Point Algorithms in Statistics and Data Science: A State-of-Art Review.](https://jds-online.org/journal/JDS/article/1288/info) *Journal of Data Science*, **21**(1), 1-26.
+2. Henderson, N.C. and Z. Ouyang (2025). [Parameter-expanded ECME algorithms for Logistic and Penalized Logistic Regression.](https://link.springer.com/article/10.1007/s00180-025-01619-0) *Computational Statistics*, **40**, 3883–3909. ArXiv preprint [here](https://arxiv.org/abs/2304.03904) and R package associated with this paper: [pxlogistic](https://github.com/nchenderson/pxlogistic)
 
-3. Henderson, N.C. and R. Varadhan (2019). [Damped Anderson Acceleration with Restarts and Monotonicity Control for Accelerating EM and EM-like Algorithms.](https://www.tandfonline.com/doi/abs/10.1080/10618600.2019.1594835) *Journal of Computational and Graphical Statistics*, **28**(4), 834-846.
+3. Tang, B., Henderson, N.C., and R. Varadhan (2023). [Accelerating Fixed-Point Algorithms in Statistics and Data Science: A State-of-Art Review.](https://jds-online.org/journal/JDS/article/1288/info) *Journal of Data Science*, **21**(1), 1-26.
 
-4. Henderson, N.C. and P.J. Rathouz (2018). [AR(1) Latent Class Models for Longitudinal Count Data.](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.7931) *Statistics in Medicine*, **37**, 4441-4456.
+4. Henderson, N.C. and R. Varadhan (2019). [Damped Anderson Acceleration with Restarts and Monotonicity Control for Accelerating EM and EM-like Algorithms.](https://www.tandfonline.com/doi/abs/10.1080/10618600.2019.1594835) *Journal of Computational and Graphical Statistics*, **28**(4), 834-846.
 
-5. McDaniel, L.S., Henderson, N.C., and P.J. Rathouz (2013). [Fast Pure R Implementation of GEE: Application of the Matrix Package.](https://journal.r-project.org/archive/2013-1/mcdaniel-henderson-rathouz.pdf) *The R Journal*, **5**(1), 181-188.
+5. Henderson, N.C. and P.J. Rathouz (2018). [AR(1) Latent Class Models for Longitudinal Count Data.](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.7931) *Statistics in Medicine*, **37**, 4441-4456.
 
-
+6. McDaniel, L.S., Henderson, N.C., and P.J. Rathouz (2013). [Fast Pure R Implementation of GEE: Application of the Matrix Package.](https://journal.r-project.org/archive/2013-1/mcdaniel-henderson-rathouz.pdf) *The R Journal*, **5**(1), 181-188.
 
 
 # Cancer Applications
