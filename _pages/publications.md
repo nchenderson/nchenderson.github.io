@@ -55,7 +55,7 @@ Empirical Bayes/Shrinkage Estimation and Ranking
 Data Integration/Real-World Evidence
 ======
 
-1. Bhattacharyya, R., Henderson, N.C., and V. Baladandayuthapani (2024). [Functional Integrative Bayesian Analysis of High-dimensional Multiplatform Genomic Data.](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2388909)*Journal of the American Statistical Association*, **119**(548), 2533-2547..
+1. Bhattacharyya, R., Henderson, N.C., and V. Baladandayuthapani (2024). [Functional Integrative Bayesian Analysis of High-dimensional Multiplatform Genomic Data.](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2388909)*Journal of the American Statistical Association*, **119**(548), 2533-2547.
 
 2. Bhattacharyya, R. Henderson, N., and V. Baladandayuthapani (2023). [BaySyn: Bayesian Evidence Synthesis for Multi-system Multiomic Integration.](https://www.worldscientific.com/doi/abs/10.1142/9789811270611_0026) In *PACIFIC SYMPOSIUM ON BIOCOMPUTING 2023: Proceedings of the Pacific Symposium*, 275 - 286.
 
