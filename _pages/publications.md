@@ -15,7 +15,7 @@ A list of papers grouped by topic, with links to relevant data and **R** code, i
 Heterogeneity of Treatment Effect
 ======
 
-1. Kabata, D., Henderson, N.C., and R. Varadhan (2025). [Quantifying uncertainty of individualized treatment effects in right-censored survival data: A comparison of Bayesian additive regression trees and causal survival forest](https://arxiv.org/abs/2504.04571) ArXiv preprint.
+1. Kabata, D., Henderson, N.C., and R. Varadhan (2025). [Quantifying uncertainty of individualized treatment effects in right-censored survival data: A comparison of Bayesian additive regression trees and causal survival forest](https://link.springer.com/article/10.1007/s10742-025-00362-9) Health Services and Outcomes Research Methodology.
 
 2. Segal, J.B., Varadhan, R., Groenwold, R.H.H., Henderson, N.C.,..., and M. Burcu (2023). [Assessing Heterogeneity of Treatment Effect in Real-World Data.](https://www.acpjournals.org/doi/abs/10.7326/M22-1510) *Annals of Internal Medicine*, **176**(4), 536-544.
 
