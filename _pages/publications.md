@@ -36,7 +36,7 @@ Heterogeneity of Treatment Effect
 Survival Analysis and Bayesian Additive Regression Trees (BART)
 ======
 
-1. Ashouri, M. and N.C. Henderson (2025). [Generalized Bayesian Additive Regression Trees for Restricted Mean Survival Time Inference.](https://arxiv.org/abs/2402.17920) ArXiv preprint, To appear in *Bayesian Analysis*
+1. Ashouri, M. and N.C. Henderson (2025). [Generalized Bayesian Additive Regression Trees for Restricted Mean Survival Time Inference.](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Generalized-Bayesian-Additive-Regression-Trees-for-Restricted-Mean-Survival-Time/10.1214/25-BA1579.full), To appear in *Bayesian Analysis*
 
 2. Henderson, N.C., Nam, K., and D. Feng (2024). [Nonparametric Analysis of Delayed Treatment Effects using Single-Crossing Constraints.](https://onlinelibrary.wiley.com/doi/full/10.1002/bimj.202200165) *Biometrical Journal*, **66**(2), 2200165. Code to reproduce results in the paper [here](https://github.com/nchenderson/singlecrossingreproduce). Associated R package [DelayedSurvFit](https://github.com/nchenderson/DelayedSurvFit).
 
