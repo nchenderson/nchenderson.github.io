@@ -57,19 +57,20 @@ Empirical Bayes/Shrinkage Estimation and Ranking
 
 Data Integration/Real-World Evidence
 ======
+1. Henderson, N.C. (2026). [Robust Updating of a Risk Prediction Model by Integrating External Ranking Information](https://arxiv.org/abs/2603.10389) ArXiv preprint.
 
-1. Bhattacharyya, R., Henderson, N.C., and V. Baladandayuthapani (2024). [Functional Integrative Bayesian Analysis of High-dimensional Multiplatform Genomic Data.](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2388909)*Journal of the American Statistical Association*, **119**(548), 2533-2547.
+2. Bhattacharyya, R., Henderson, N.C., and V. Baladandayuthapani (2024). [Functional Integrative Bayesian Analysis of High-dimensional Multiplatform Genomic Data.](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2388909)*Journal of the American Statistical Association*, **119**(548), 2533-2547.
 
-2. Bhattacharyya, R. Henderson, N., and V. Baladandayuthapani (2023). [BaySyn: Bayesian Evidence Synthesis for Multi-system Multiomic Integration.](https://www.worldscientific.com/doi/abs/10.1142/9789811270611_0026) In *PACIFIC SYMPOSIUM ON BIOCOMPUTING 2023: Proceedings of the Pacific Symposium*, 275 - 286.
+3. Bhattacharyya, R. Henderson, N., and V. Baladandayuthapani (2023). [BaySyn: Bayesian Evidence Synthesis for Multi-system Multiomic Integration.](https://www.worldscientific.com/doi/abs/10.1142/9789811270611_0026) In *PACIFIC SYMPOSIUM ON BIOCOMPUTING 2023: Proceedings of the Pacific Symposium*, 275 - 286.
 
-3. Nam, K., Henderson, N.C., Rohan, P., and E. Russek-Cohen (2021). [Penalized Logistic Regression Likelihood Ratio Test Analysis to Detect Signals of Adverse Events from Interactions in Postmarket Safety Surveillance.](https://www.tandfonline.com/doi/abs/10.1080/19466315.2020.1752299) *Statistics in Biopharmaceutical Research*, **13**(4), 405-414.
+4. Nam, K., Henderson, N.C., Rohan, P., and E. Russek-Cohen (2021). [Penalized Logistic Regression Likelihood Ratio Test Analysis to Detect Signals of Adverse Events from Interactions in Postmarket Safety Surveillance.](https://www.tandfonline.com/doi/abs/10.1080/19466315.2020.1752299) *Statistics in Biopharmaceutical Research*, **13**(4), 405-414.
 
-4. Henderson, N.C., Varadhan, R., and C. O. Weiss (2017). [Cross-Design Synthesis for Extending the Applicability of Trial Evidence when Treatment Effect is Heterogeneous: Part II. Application and External Validation.](https://www.tandfonline.com/doi/abs/10.1080/23737484.2017.1398056)
+5. Henderson, N.C., Varadhan, R., and C. O. Weiss (2017). [Cross-Design Synthesis for Extending the Applicability of Trial Evidence when Treatment Effect is Heterogeneous: Part II. Application and External Validation.](https://www.tandfonline.com/doi/abs/10.1080/23737484.2017.1398056)
 *Communications in Statistics: Case Studies, Data Analysis and Applications*, **3**, 7-20.
 
-5. Nam, K., Henderson, N.C., Rohan, P., E.J. Woo, and E. Russek-Cohen (2017). [Logistic Regression Likelihood Ratio Test Analysis for Detecting Signals of Vaccine Adverse Events in Vaccine Safety Surveillance.](https://www.tandfonline.com/doi/abs/10.1080/10543406.2017.1295250) *Journal of Biopharmaceutical Statistics*, **27**, 990-1008.
+6. Nam, K., Henderson, N.C., Rohan, P., E.J. Woo, and E. Russek-Cohen (2017). [Logistic Regression Likelihood Ratio Test Analysis for Detecting Signals of Vaccine Adverse Events in Vaccine Safety Surveillance.](https://www.tandfonline.com/doi/abs/10.1080/10543406.2017.1295250) *Journal of Biopharmaceutical Statistics*, **27**, 990-1008.
 
-6. Varadhan, R., Henderson, N.C., and C. O. Weiss (2016). [Cross-Design Synthesis for Extending the Applicability of Trial Evidence when Treatment Effect is Heterogeneous: Part I. Methodology.](https://www.tandfonline.com/doi/abs/10.1080/23737484.2017.1392265)
+7. Varadhan, R., Henderson, N.C., and C. O. Weiss (2016). [Cross-Design Synthesis for Extending the Applicability of Trial Evidence when Treatment Effect is Heterogeneous: Part I. Methodology.](https://www.tandfonline.com/doi/abs/10.1080/23737484.2017.1392265)
 *Communications in Statistics: Case Studies, Data Analysis and Applications*, **2**, 112-126.
 
 
@@ -104,6 +105,7 @@ Computational Statistics
 
 5. Hwang, C., Henderson, N.C., Cackowski, F.C., ..., and P. Barata (2023). [Biomarker-directed Therapy in Black and White Men with Metastatic Castration-resistant Prostate Cancer (mCRPC).](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2809637) *JAMA Network Open*, **6**(9), e2334208.
 
+6. Choi, C., Labriola, M., Henderson, N.C., ..., McKay, R.R., and Armstrong, A.J. **Association between Smoking, Tumor Genetics, and Outcomes in Men with Metastatic Prostate Cancer.**
 
 
 ## Urothelial Cancer
