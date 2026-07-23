@@ -22,6 +22,7 @@ author_profile: true
 
 7. [rmstbart](https://github.com/nchenderson/rmstbart) An R package implementing a generalized Bayes approach for adapting BART to perform inference on a function which relates the restricted mean survival times with a collection of individual-level covariates.
 
+8. [ropper](https://cran.r-project.org/web/packages/ropper/index.html) An R package implementing the empirical Bayes ranking method described in Henderson and Hartman (2025).
 <!--{% include base_path %}
 
 {% for post in site.software reversed %}

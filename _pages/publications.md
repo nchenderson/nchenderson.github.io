@@ -15,21 +15,22 @@ A list of papers grouped by topic, with links to relevant data and **R** code, i
 Heterogeneity of Treatment Effect
 ======
 
-1. Kabata, D., Henderson, N.C., and R. Varadhan (2025). [Quantifying uncertainty of individualized treatment effects in right-censored survival data: A comparison of Bayesian additive regression trees and causal survival forest](https://link.springer.com/article/10.1007/s10742-025-00362-9) Health Services and Outcomes Research Methodology.
+1. Ashouri, M., and N.C. Henderson (2026). [Evaluating and Testing for Actionable Treatment Effect Heterogeneity](https://journals.sagepub.com/doi/10.1177/09622802261470081), To appear in *Statistical Methods in Medical Research*
 
-2. Segal, J.B., Varadhan, R., Groenwold, R.H.H., Henderson, N.C.,..., and M. Burcu (2023). [Assessing Heterogeneity of Treatment Effect in Real-World Data.](https://www.acpjournals.org/doi/abs/10.7326/M22-1510) *Annals of Internal Medicine*, **176**(4), 536-544.
+2. Kabata, D., Henderson, N.C., and R. Varadhan (2025). [Quantifying uncertainty of individualized treatment effects in right-censored survival data: A comparison of Bayesian additive regression trees and causal survival forest](https://link.springer.com/article/10.1007/s10742-025-00362-9) Health Services and Outcomes Research Methodology.
 
-3. Henderson, N.C., Louis, T.A., Rosner, G.L., and R. Varadhan (2020). [Individualized Treatment Effects with Censored Data via Fully Nonparametric Bayesian Accelerated Failure Time Models.](https://academic.oup.com/biostatistics/article/21/1/50/5056258) *Biostatistics*, **21**, 50-68.
+3. Segal, J.B., Varadhan, R., Groenwold, R.H.H., Henderson, N.C.,..., and M. Burcu (2023). [Assessing Heterogeneity of Treatment Effect in Real-World Data.](https://www.acpjournals.org/doi/abs/10.7326/M22-1510) *Annals of Internal Medicine*, **176**(4), 536-544.
 
-4. Lesko, C.R., Henderson, N.C., and R. Varadhan (2018). [Considerations when Assessing Heterogeneity of Treatment Effect in Patient-Centered Outcomes Research.](https://www.sciencedirect.com/science/article/abs/pii/S0895435617301099) *Journal of Clinical Epidemiology*, **100**, 22-31. 
+4. Henderson, N.C., Louis, T.A., Rosner, G.L., and R. Varadhan (2020). [Individualized Treatment Effects with Censored Data via Fully Nonparametric Bayesian Accelerated Failure Time Models.](https://academic.oup.com/biostatistics/article/21/1/50/5056258) *Biostatistics*, **21**, 50-68.
 
-5. Henderson, N.C. and R. Varadhan (2018). [Bayesian Bivariate Subgroup Analysis for Risk-Benefit Evaluation.](https://link.springer.com/article/10.1007/s10742-018-0188-1) *Health Services and Outcomes Research Methodology*, **18**(4), 244-264.
+5. Lesko, C.R., Henderson, N.C., and R. Varadhan (2018). [Considerations when Assessing Heterogeneity of Treatment Effect in Patient-Centered Outcomes Research.](https://www.sciencedirect.com/science/article/abs/pii/S0895435617301099) *Journal of Clinical Epidemiology*, **100**, 22-31. 
 
-6. Wang, C., Louis, T.A., Henderson, N.C., Weiss, C.O., and R. Varadhan (2018). [BEANZ: A Web-based Software for Bayesian Analysis of Heterogeneous Treatment Effect in Patient-Centered Outcomes Research.](https://www.jstatsoft.org/article/view/v085i07) *Journal of Statistical Software*, **85**(7), 1-31.
+6. Henderson, N.C. and R. Varadhan (2018). [Bayesian Bivariate Subgroup Analysis for Risk-Benefit Evaluation.](https://link.springer.com/article/10.1007/s10742-018-0188-1) *Health Services and Outcomes Research Methodology*, **18**(4), 244-264.
 
-7. Henderson, N.C., Louis, T.A., Wang, C., and R. Varadhan (2016). [Bayesian Analysis of Heterogeneous Treatment Effects for Patient-Centered Outcomes Research.](https://link.springer.com/article/10.1007/s10742-016-0159-3) *Health Services and Outcomes Research Methodology*, **16**(4), 213-233.
+7. Wang, C., Louis, T.A., Henderson, N.C., Weiss, C.O., and R. Varadhan (2018). [BEANZ: A Web-based Software for Bayesian Analysis of Heterogeneous Treatment Effect in Patient-Centered Outcomes Research.](https://www.jstatsoft.org/article/view/v085i07) *Journal of Statistical Software*, **85**(7), 1-31.
 
-8. Ashouri, M., and N.C. Henderson (2025). [Evaluating and Testing for Actionable Treatment Effect Heterogeneity](https://arxiv.org/abs/2503.04093) ArXiv preprint.
+8. Henderson, N.C., Louis, T.A., Wang, C., and R. Varadhan (2016). [Bayesian Analysis of Heterogeneous Treatment Effects for Patient-Centered Outcomes Research.](https://link.springer.com/article/10.1007/s10742-016-0159-3) *Health Services and Outcomes Research Methodology*, **16**(4), 213-233.
+
 
 
 
@@ -95,17 +96,20 @@ Computational Statistics
 # Cancer Applications
 
 ## Prostate Cancer
-1. Kilari, D., Henderson, N.C., Yamamoto, K., ...., and R.R. McKay (2025). [Impact of SPOP Mutations on Clinical Outcomes in Metastatic Prostate Cancer](https://ascopubs.org/doi/abs/10.1200/PO-25-00590) *JCO Precision Oncology*, **9**, e2500590.
 
-2. Panian, J., Henderson, N.C., Herchenhorn, D., ..., and R.R. McKay (2025). [Genomic alterations and associated outcomes in patients with PSMA-positive metastatic castration-resistant prostate cancer treated with 177Lu-PSMA-617](), *The Oncologist*, **30**(11), oyaf358.
+1. Choi, C., Labriola, M., Henderson, N.C., ..., McKay, R.R., and Armstrong, A.J. **Association between Smoking, Tumor Genetics, and Outcomes in Men with Metastatic Prostate Cancer**, To appear in *Prostate Cancer and Prostatic Diseases*.
 
-3. Zengin, Z.B., Henderson, N.C., Park, J.J., ..., and T. Dorff (2024). [Clinical implications of AR alterations in advanced prostate cancer: a multi-institutional collaboration.](https://www.nature.com/articles/s41391-024-00805-3) *Prostate Cancer and Prostatic Diseases*.
+2. Kilari, D., Henderson, N.C., Yamamoto, K., ...., and R.R. McKay (2025). [Impact of SPOP Mutations on Clinical Outcomes in Metastatic Prostate Cancer](https://ascopubs.org/doi/abs/10.1200/PO-25-00590) *JCO Precision Oncology*, **9**, e2500590.
 
-4. Graham, L., Henderson, N.C., Kellezi, O., ..., and M.T. Schweizer (2024). [DNA Damaging Therapies in Patients with Prostate Cancer and Pathogenic Alterations in Homologous Recombination Repair Genes.](https://ascopubs.org/doi/full/10.1200/PO.24.00014) *JCO Precision Oncology*, **8**, e2400014.
+3. Panian, J., Henderson, N.C., Herchenhorn, D., ..., and R.R. McKay (2025). [Genomic alterations and associated outcomes in patients with PSMA-positive metastatic castration-resistant prostate cancer treated with 177Lu-PSMA-617](), *The Oncologist*, **30**(11), oyaf358.
 
-5. Hwang, C., Henderson, N.C., Cackowski, F.C., ..., and P. Barata (2023). [Biomarker-directed Therapy in Black and White Men with Metastatic Castration-resistant Prostate Cancer (mCRPC).](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2809637) *JAMA Network Open*, **6**(9), e2334208.
+4. Zengin, Z.B., Henderson, N.C., Park, J.J., ..., and T. Dorff (2025). [Clinical implications of AR alterations in advanced prostate cancer: a multi-institutional collaboration.](https://www.nature.com/articles/s41391-024-00805-3) *Prostate Cancer and Prostatic Diseases*, **28**(2), 378-384.
 
-6. Choi, C., Labriola, M., Henderson, N.C., ..., McKay, R.R., and Armstrong, A.J. **Association between Smoking, Tumor Genetics, and Outcomes in Men with Metastatic Prostate Cancer.**
+5. Graham, L., Henderson, N.C., Kellezi, O., ..., and M.T. Schweizer (2024). [DNA Damaging Therapies in Patients with Prostate Cancer and Pathogenic Alterations in Homologous Recombination Repair Genes.](https://ascopubs.org/doi/full/10.1200/PO.24.00014) *JCO Precision Oncology*, **8**, e2400014.
+
+6. Hwang, C., Henderson, N.C., Cackowski, F.C., ..., and P. Barata (2023). [Biomarker-directed Therapy in Black and White Men with Metastatic Castration-resistant Prostate Cancer (mCRPC).](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2809637) *JAMA Network Open*, **6**(9), e2334208.
+
+7. Thapa, B., Henderson, N.C., ..., and D. Kilari. (2026) **Impact of PTEN alterations on clinical outcomes in patients with metastatic castration-sensitive prostate cancer.**
 
 
 ## Urothelial Cancer
