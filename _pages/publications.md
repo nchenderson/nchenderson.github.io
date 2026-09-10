@@ -15,7 +15,7 @@ A list of papers grouped by topic, with links to relevant data and **R** code, i
 Heterogeneity of Treatment Effect
 ======
 
-1. Ashouri, M., and N.C. Henderson (2026). [Evaluating and Testing for Actionable Treatment Effect Heterogeneity](https://journals.sagepub.com/doi/10.1177/09622802261470081), *Statistical Methods in Medical Research*, **35**(9), 2001-2023
+1. Ashouri, M., and N.C. Henderson (2026). [Evaluating and Testing for Actionable Treatment Effect Heterogeneity](https://journals.sagepub.com/doi/10.1177/09622802261470081), *Statistical Methods in Medical Research*, **35**(9), 2001-2023.
 
 2. Kabata, D., Henderson, N.C., and R. Varadhan (2025). [Quantifying uncertainty of individualized treatment effects in right-censored survival data: A comparison of Bayesian additive regression trees and causal survival forest](https://link.springer.com/article/10.1007/s10742-025-00362-9) Health Services and Outcomes Research Methodology.
 
